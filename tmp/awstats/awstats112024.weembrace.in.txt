@@ -1,0 +1,462 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202411 will be lost/reset.
+# Last config file used to build this data file was /home/fmfjda50b8oe/tmp/awstats/awstats.weembrace.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2684                
+POS_VISITOR 13948               
+POS_DAY 14563               
+POS_DOMAIN 3296                
+POS_LOGIN 3609                
+POS_ROBOT 3764                
+POS_WORMS 4173                
+POS_EMAILSENDER 4304                
+POS_EMAILRECEIVER 4447                
+POS_SESSION 14766               
+POS_SIDER 14913               
+POS_FILETYPES 4582                
+POS_DOWNLOADS 4789                
+POS_OS 4837                
+POS_BROWSER 4983                
+POS_SCREENSIZE 5330                
+POS_UNKNOWNREFERER 5404                
+POS_UNKNOWNREFERERBROWSER 5615                
+POS_ORIGIN 5720                
+POS_SEREFERRALS 5854                
+POS_PAGEREFS 5998                
+POS_SEARCHWORDS 6146                
+POS_KEYWORDS 6298                
+POS_MISC 2348                
+POS_ERRORS 6357                
+POS_CLUSTER 3465                
+POS_SIDER_404 6443                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20241117125736 1 0 4186666865801
+FirstTime 20241101001221
+LastTime 20241108103552
+LastUpdate 20241118054836 1 0 1 0 0
+TotalVisits 15                  
+TotalUnique 14                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 14                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 54 24823711 1 5 0
+1 2 2 44557 1 2 0
+2 1 1 37750 0 0 0
+3 0 0 0 6 12 2334449
+4 0 0 0 4 7 72765
+5 0 0 0 6 11 93713
+6 0 0 0 3 10 35132
+7 0 0 0 6 12 141927
+8 2 2 48413 4 37 263666
+9 0 0 0 1 1 0
+10 2 2 48413 2 2 0
+11 0 0 0 0 2 0
+12 0 0 0 5 8 2171354
+13 1 1 6807 0 1 0
+14 0 0 0 3 6 5321985
+15 2 2 48413 0 4 3430380
+16 0 0 0 0 0 0
+17 0 0 0 2 3 44057
+18 1 1 6807 1 1 0
+19 0 0 0 47 51 4577816
+20 2 2 13114 101 242 1063200
+21 1 1 6807 0 2 2334449
+22 0 0 0 2 3 2133604
+23 1 1 6807 0 1 2161238
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+us 9 56 24874575
+ru 6 6 145239
+nl 2 2 13614
+de 1 1 0
+se 1 1 6807
+be 1 1 6807
+bg 1 1 6807
+in 1 1 37750
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Googlebot/ 176 1291110 20241107032637 0
+crawl 11 216703 20241105064956 0
+Googlebot\-Image/ 8 11552013 20241103192838 0
+bingbot/ 7 12879795 20241106151258 0
+no_user_agent 4 151000 20241117125736 0
+Applebot/ 2 13614 20241105042733 0
+facebookexternalhit/ 2 75500 20241101055602 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+jpg 17 20582120 0 0
+html 18 281502 0 0
+ttf 1 307168 0 0
+js 16 159255 0 0
+woff 2 17028 0 0
+woff2 1 50592 0 0
+css 12 70001 0 0
+png 2 3623933 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+android10 53 6
+winnt 2 2
+Unknown 2 2
+win10 9 9
+ios_ipad 1 1
+win8.1 1 1
+linux 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+chrome124.0.6367.63 2 2
+safari17.0 1 1
+firefox115 1 1
+chrome91.0.4472.114 1 1
+chrome51.0.2704.106 1 1
+Unknown 1 1
+chrome129.0.0.0 1 1
+mozilla 1 1
+chrome125.0.0.0 2 2
+chrome113.0.0.0 1 1
+chrome121.0.0.0 1 1
+chrome66.0.3359.181 1 1
+chrome130.0.0.0 52 5
+chrome122.0.0.0 1 1
+chrome124.0.6367.119 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20241103234351
+firefox 20241101013715
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+firefox 20241101013715
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 12 12
+From1 0 0
+From2 0 0
+From3 0 0
+From4 10 57
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 208 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 168
+/wp-includes/block-patterns/index.php 1 -
+/wp-includes/rest-api/search/index.php 1 -
+/wp-includes/images/crystal/index.php 1 -
+/wp-includes/blocks/group/index.php 1 -
+/wp-includes/Requests/Utility/index.php 1 -
+/assets/plugins/jquery-file-upload/server/php/index.php 1 -
+/wp-includes/blocks/site-logo/index.php 1 -
+/wp-includes/blocks/table/index.php 1 -
+/blogs/wp-includes/css/buttons.css 1 -
+/wp-includes/blocks/latest-posts/index.php 1 -
+/wp-content/plugins/cherry-plugin/admin/css/tinymce-shortcodes.css 1 -
+/wp-includes/SimplePie/HTTP/index.php 1 -
+/wp-includes/SimplePie/index.php 1 -
+/wp-includes/Requests/Proxy/index.php 1 -
+/wp-includes/Requests/Auth/index.php 1 -
+/wp-includes/Requests/src/Exception/index.php 1 -
+/wp-includes/css/dist/editor/index.php 1 -
+/wp-includes/blocks/heading/index.php 1 -
+/wp-includes/blocks/verse/index.php 1 -
+/wp-includes/js/dist/vendor/index.php 1 -
+/causes.html 1 -
+/wp-includes/css/dist/block-directory/index.php 1 -
+/wp-includes/js/imgareaselect/index.php 1 -
+/wp-includes/blocks/latest-comments/index.php 1 -
+/wp/wp-includes/css/buttons.css 1 -
+/wp-includes/js/dist/index.php 1 -
+/wp-includes/blocks/search/index.php 1 -
+/wp-includes/Requests/index.php 1 -
+/wp-includes/widgets/dir/index.php 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/download-content.php 1 -
+/wp-includes/Requests/Transport/index.php 1 -
+/wp-includes/blocks/site-title/index.php 1 -
+/wp-includes/blocks/column/index.php 1 -
+/wordpress/wp-includes/css/buttons.css 1 -
+/wp-includes/SimplePie/XML/Declaration/index.php 1 -
+/wp-includes/js/tinymce/plugins/image/index.php 1 -
+/wp-includes/Text/index.php 1 -
+/wp-includes/blocks/query-title/index.php 1 -
+/wp-includes/IXR/index.php 1 -
+/wp-includes/blocks/page-list/index.php 1 -
+/wp-includes/Requests/library/index.php 1 -
+/wp-includes/SimplePie/Decode/HTML/index.php 1 -
+/donate.html 1 -
+/media/system/js/core.js 6 -
+/wp-includes/fonts/index.php 1 -
+/wp-includes/blocks/button/index.php 1 -
+/wp-includes/js/thickbox/index.php 1 -
+/wp-includes/blocks/html/index.php 1 -
+/components/com_jbusinessdirectory/assets/uploadFile.php 1 -
+/wp-includes/js/tinymce/plugins/fullscreen/index.php 1 -
+/wp-includes/js/swfupload/index.php 1 -
+/wp-login.php 5 -
+/wp-includes/blocks/categories/index.php 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 1 -
+/wp-includes/blocks/post-title/index.php 1 -
+/wp-includes/certificates/index.php 1 -
+/wp-includes/css/dist/widgets/index.php 1 -
+/wp-includes/blocks/query-pagination-numbers/index.php 1 -
+/wp-includes/SimplePie/Cache/index.php 1 -
+/wp-includes/blocks/post-featured-image/index.php 1 -
+/wp-includes/js/tinymce/index.php 1 -
+/wp-includes/js/mediaelement/renderers/index.php 1 -
+/forum/ 1 -
+/wp-includes/blocks/legacy-widget/index.php 1 -
+/wp-includes/js/jquery/ui/index.php 1 -
+/wp-includes/blocks/post-date/index.php 1 -
+/image1/PHOTO-2024-02-10-21-08-10-modifiedwe.jpg 1 http://weembrace.in/
+/site/wp-includes/css/buttons.css 1 -
+/wp-includes/js/tinymce/plugins/hr/index.php 1 -
+/wp-includes/sodium_compat/src/Core32/SecretStream/index.php/wp-includes/js/tinymce/plugins/charmap/index.php 1 -
+/wp-includes/index.php 1 -
+/wp-includes/css/dist/format-library/index.php 1 -
+/assets/jquery-file-upload/server/php/index.php 1 -
+/wp-includes/Text/Diff/Engine/index.php 1 -
+/wp-includes/css/index.php 1 -
+/wp-includes/SimplePie/Parse/index.php 1 -
+/wp-includes/blocks/video/index.php 1 -
+/wp-includes/css/dist/edit-widgets/index.php 1 -
+/wp-includes/blocks/more/index.php 1 -
+/wp-includes/blocks/navigation-link/index.php 1 -
+/wp-includes/css/buttons.css 1 -
+/wp-includes/css/dist/list-reusable-blocks/index.php 1 -
+/wp-includes/Requests/Cookie/index.php 1 -
+/wp-includes/css/dist/edit-post/index.php 1 -
+/wp-includes/Requests/Response/index.php 1 -
+/wp-includes/blocks/buttons/index.php 1 -
+/wp-includes/js/mediaelement/index.php 1 -
+/wp-includes/blocks/pullquote/index.php 1 -
+/wp-includes/blocks/tag-cloud/index.php 1 -
+/wp-includes/images/media/index.php 1 -
+/wp-includes/blocks/paragraph/index.php 1 -
+/wp-includes/Requests/Exception/index.php 1 -
+/wp-includes/blocks/columns/index.php 1 -
+/wp-includes/blocks/nextpage/index.php 1 -
+/wp-content/plugins/index.php 1 -
+/wp-includes/blocks/image/index.php 1 -
+/wp-includes/blocks/query-pagination-next/index.php 1 -
+/wp-includes/interactivity-api/index.php 1 -
+/wp-includes/SimplePie/Content/Type/index.php 1 -
+/wp-includes/blocks/spacer/index.php 1 -
+/wp-includes/customize/index.php 1 -
+/wp-includes/blocks/index.php 1 -
+/wp-includes/blocks/shortcode/index.php 1 -
+/wp-includes/blocks/post-content/index.php 1 -
+/wp-includes/blocks/calendar/index.php 1 -
+/wp-includes/blocks/embed/index.php 1 -
+/wp-includes/blocks/site-tagline/index.php 1 -
+/wp-includes/Requests/src/Exception/Http/index.php 1 -
+/wp-includes/js/index.php 1 -
+/wp-includes/blocks/loginout/index.php 1 -
+/wp-includes/blocks/social-links/index.php 1 -
+/wp-includes/blocks/social-link/index.php 1 -
+/wp-includes/block-supports/index.php 1 -
+/wp-includes/Requests/Exception/Transport/index.php 1 -
+/wp-includes/PHPMailer/index.php 1 -
+/wp-includes/SimplePie/Net/index.php 1 -
+/wp-includes/blocks/quote/index.php 1 -
+/wp-includes/css/dist/reusable-blocks/index.php 1 -
+/wp-includes/blocks/cover/index.php 1 -
+/wp-includes/blocks/media-text/index.php 1 -
+/blog.html 1 -
+/wp-includes/blocks/rss/index.php 1 -
+/wp-includes/js/jquery/index.php 1 -
+/wp-includes/js/jcrop/index.php 1 -
+/wp-includes/blocks/archives/index.php 1 -
+/wp-includes/images/wlw/index.php 1 -
+/wp-includes/assets/index.php 1 -
+/wp-includes/blocks/preformatted/index.php 1 -
+/wp-includes/js/plupload/index.php 1 -
+/wp-includes/blocks/list/index.php 1 -
+/wp-includes/blocks/freeform/index.php 1 -
+/wp-includes/blocks/code/index.php 1 -
+/wp-includes/ID3/index.php 1 -
+/xmlrpc.php 2 -
+/wp-includes/blocks/query-pagination/index.php 1 -
+/wp-includes/blocks/text-columns/index.php 1 -
+/wp-includes/Requests/Exception/HTTP/index.php 1 -
+/wp-includes/blocks/audio/index.php 1 -
+/blog/wp-includes/css/buttons.css 1 -
+/wp-includes/blocks/post-terms/index.php 1 -
+/wp-includes/blocks/separator/index.php 1 -
+/wp-content/plugins/page-flip-image-gallery/upload.php 1 -
+/ 4 -
+/wp-includes/blocks/gallery/index.php 1 -
+/robots.txt 23 -
+/administrator/components/com_jbusinessdirectory/assets/upload.php 1 -
+/wp-includes/images/smilies/index.php 1 -
+/wp-includes/blocks/post-excerpt/index.php 1 -
+/wp-includes/js/jquery/jquery.js 6 -
+/wp-includes/blocks/post-template/index.php 1 -
+/wp-includes/css/dist/index.php 1 -
+/wp-includes/js/codemirror/index.php 1 -
+/wp-includes/Text/Diff/index.php 1 -
+/wp-includes/html-api/index.php 1 -
+/wp-includes/blocks/query/index.php 1 -
+/wp-includes/blocks/file/index.php 1 -
+/wp-includes/css/dist/components/index.php 1 -
+/wp-includes/js/crop/index.php 1 -
+/wp-includes/css/dist/nux/index.php 1 -
+/wp-includes/Text/Diff/Renderer/index.php 1 -
+/wp-admin/admin-ajax.php 1 -
+/wp-includes/blocks/missing/index.php 1 -
+/wp-includes/blocks/query-pagination-previous/index.php 1 -
+/wp-includes/images/index.php 1 -
+/wp-includes/js/tinymce/langs/index.php 1 -
+/wp-includes/blocks/block/index.php 1 -
+/wp-includes/css/dist/customize-widgets/index.php 1 -
+/wp-includes/css/dist/patterns/index.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 14
+152.58.208.42 5 52 24816904 20241101001225
+92.255.85.164 4 4 96826 20241108103552
+62.122.184.194 2 2 48413 20241102154015
+34.34.253.95 1 1 6307 20241103200536
+5.133.192.212 1 1 6807 20241104133014
+87.236.176.107 1 1 6807 20241103234351
+93.174.93.127 1 1 6807 20241105184951
+85.255.20.171 1 1 0 20241106003748
+109.199.118.129 1 1 6807 20241104201033
+35.92.39.150 1 1 6807 20241103210128
+209.97.134.221 1 1 6807 20241105013238
+45.130.145.14 1 1 37750 20241101013715
+89.248.174.11 1 1 6807 20241108004209
+162.250.122.68 1 1 37750 20241105021823
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 7
+20241101 6 53 24854654 2
+20241102 2 2 48413 1
+20241103 3 3 19921 3
+20241104 4 4 62027 3
+20241105 3 3 51364 3
+20241106 1 1 0 1
+20241108 3 3 55220 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 15
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 15 249513 15 11
+/contact.html 3 31989 0 3
+/fonts/icomoon/icomoon.ttf 1 307168 0 0
+/fonts/open-iconic/open-iconic.woff 1 14984 0 0
+/fonts/ionicons/fonts/ionicons.woff2 1 50592 0 1
+/fonts/flaticon/font/Flaticon.woff 1 2044 0 0
+END_SIDER

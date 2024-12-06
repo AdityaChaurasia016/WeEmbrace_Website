@@ -1,0 +1,394 @@
+# Webalizer V2.23-08 Incremental Data - 11/17/2024 12:43:39
+2024 11 17 12 43 39
+119 84 45 50 3 18 35742879 38 28 0
+1 1 45 1 17
+17 13 19160919 5 1 1
+7 5 4622373 7 3 3
+6 4 1827008 5 2 2
+2 1 109763 2 0 0
+14 8 2332659 10 8 8
+6 4 63943 6 5 5
+61 46 7543907 13 14 4
+2 1 6807 2 1 1
+1 1 37750 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 0 0 2 2 2
+0 0 0 0 0 0
+1 1 37750 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 1 109763 1
+5 2 1709475 1
+3 2 75500 2
+2 2 44702 2
+6 3 51399 4
+1 1 6807 1
+0 0 0 0
+1 0 0 0
+1 1 2133604 0
+3 2 4738525 0
+3 1 2133604 0
+48 43 5365746 12
+7 4 3881175 1
+2 1 6807 2
+0 0 0 0
+3 3 1823970 0
+11 5 8111133 2
+1 1 37750 1
+0 0 0 0
+4 4 5329099 0
+7 3 87899 3
+2 1 37750 1
+5 3 51364 4
+1 1 6807 1
+0
+0
+0
+84
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+34
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/js/jquery.animateNumber.min.js
+0 1 8243129286180037221 666 0 0
+/css/flaticon.css
+0 1 94015537185344 429 0 0
+/js/jquery.min.js
+0 1 0 75547 0 0
+/image1/cause-6.jpg
+0 1 0 2604921 0 0
+/js/owl.carousel.min.js
+0 1 0 10825 0 0
+/image1/image_1.jpg
+0 2 0 2765158 0 0
+/js/jquery.easing.1.3.js
+0 1 0 1902 0 0
+/image1/IMG_0585.jpg
+0 1 0 1572424 0 0
+/css/owl.theme.default.min.css
+0 1 0 341 0 0
+/about.html
+0 1 0 3250 0 0
+/js/google-map.js
+0 1 0 786 0 0
+/image1/PHOTO-2024-02-10-19-47-42.jpg
+0 1 0 79783 0 0
+/css/jquery.timepicker.css
+0 1 0 382 0 0
+/css/icomoon.css
+0 1 0 13200 0 0
+/image1/cause-5.jpg
+0 3 0 7003347 0 0
+/js/bootstrap.min.js
+0 1 0 13392 0 0
+/images/cause-6.jpg
+0 3 0 329289 0 0
+/image1/IMG_0877.jpg
+0 1 0 1905970 0 0
+/image1/cause-4.jpg
+0 3 0 6400812 0 0
+/image1/IMG_0071.jpg
+0 1 0 361608 0 0
+/js/jquery.magnific-popup.min.js
+0 1 0 7055 0 0
+/blog-single.html
+0 1 0 4588 0 0
+/image1/image_2.jpg
+0 2 0 2548380 0 0
+/js/jquery.timepicker.min.js
+0 1 0 5004 0 0
+/css/animate.css
+0 1 0 4137 0 0
+/causes.html
+0 1 0 3795 0 0
+/js/aos.js
+0 1 0 4279 0 0
+/donate.html
+0 1 0 2909 0 0
+/css/aos.css
+0 1 0 1561 0 0
+/css/style.css
+0 1 0 29862 0 0
+/js/scrollax.min.js
+0 1 0 3050 0 0
+/js/popper.min.js
+0 1 0 6588 0 0
+/js/main.js
+0 1 0 1996 0 0
+/image1/IMG_0041.jpg
+0 1 0 1266939 0 0
+/image1/cause-2.jpg
+0 2 0 3405336 0 0
+/contact.html
+0 1 0 2764 0 0
+/gallery.html
+0 1 0 2842 0 0
+/css/bootstrap-datepicker.css
+0 1 0 2086 0 0
+/css/owl.carousel.min.css
+0 1 0 868 0 0
+/css/ionicons.min.css
+0 1 0 7054 0 0
+/
+0 25 0 484842 28 0
+/js/jquery-migrate-3.0.1.min.js
+0 1 0 3330 0 0
+/js/jquery.stellar.min.js
+0 1 0 3192 0 0
+/js/bootstrap-datepicker.js
+0 1 0 11667 0 0
+/js/jquery.waypoints.min.js
+0 1 0 2547 0 0
+/image1/image_3.jpg
+0 2 0 4322476 0 0
+/image1/cause-3.jpg
+0 1 0 453522 0 0
+/blog.html
+0 1 0 2593 0 0
+/css/open-iconic-bootstrap.min.css
+0 1 0 1888 0 0
+/css/magnific-popup.css
+0 1 0 1662 0 0
+# End Of Table - urls
+# -sites- (monthly)
+23-95-23-208-host.colocrossing.com
+0 14 10 43162 1 1730980305
+-
+147.185.132.54
+0 1 0 0 1 1730508148
+/
+msnbot-52-167-144-20.search.msn.com
+0 1 1 2133604 0 0
+-
+ns1000614.ip-51-81-46.us
+0 1 1 37750 1 1730780740
+/
+msnbot-52-167-144-137.search.msn.com
+0 1 1 2133604 0 0
+-
+198.235.24.43
+0 1 1 37750 1 1730567390
+/
+ec2-34-245-69-97.eu-west-1.compute.amazonaws.com
+0 1 1 37750 1 1730837311
+/
+crawl-66-249-79-163.googlebot.com
+0 3 2 1492342 0 0
+-
+27.115.124.49
+0 1 0 0 0 0
+-
+ec2-34-244-41-131.eu-west-1.compute.amazonaws.com
+0 1 1 37750 1 1730843553
+/
+msnbot-40-77-167-72.search.msn.com
+0 1 1 2334449 0 0
+-
+205.210.31.50
+0 1 1 37750 1 1731847419
+/
+ec2-54-155-6-3.eu-west-1.compute.amazonaws.com
+0 1 1 37895 1 1730863793
+/
+17-241-75-41.applebot.apple.com
+0 2 1 6807 1 1730779799
+/
+198.235.24.153
+0 1 1 37750 1 1731121119
+/
+msnbot-52-167-144-184.search.msn.com
+0 1 1 2334449 0 0
+-
+ec2-34-254-19-40.eu-west-1.compute.amazonaws.com
+0 1 0 35 1 1730867259
+/
+27.115.124.33
+0 2 1 37750 1 1731009673
+/
+103.171.194.118.fastcablenet.com
+0 2 0 0 0 0
+-
+27.115.124.5
+0 1 0 0 0 0
+-
+27.115.124.40
+0 1 0 0 0 0
+-
+ec2-52-19-59-201.eu-west-1.compute.amazonaws.com
+0 1 1 37750 1 1730846679
+/
+165.232.165.218
+0 1 1 6807 1 1730930929
+/
+17-241-75-144.applebot.apple.com
+0 2 1 6807 1 1730780536
+/
+167.172.23.189
+0 1 1 12399 1 1730924011
+/
+msnbot-52-167-144-179.search.msn.com
+0 1 1 1702668 0 0
+-
+msnbot-40-77-167-28.search.msn.com
+0 1 1 2161238 0 0
+-
+affectionate.monitoring.internet-measurement.com
+0 1 1 6807 1 1730677281
+/
+msnbot-40-77-167-42.search.msn.com
+0 1 1 79783 0 0
+-
+msnbot-52-167-144-58.search.msn.com
+0 6 0 0 0 0
+-
+198.235.24.120
+0 1 0 0 1 1731687338
+/
+crawl-66-249-79-162.googlebot.com
+0 9 6 9937380 0 0
+-
+205.210.31.159
+0 1 1 37750 1 1730601097
+/
+5.133.192.167
+0 2 1 6807 1 1731017514
+/
+209.97.134.221
+0 2 1 6807 1 1730770359
+/
+198.235.24.59
+0 1 0 0 1 1730845944
+/
+planetlab24.gino-research.net.in.tum.de
+0 2 0 0 0 0
+-
+beautiful.monitoring.internet-measurement.com
+0 1 1 6807 1 1730525394
+/
+205.210.31.249
+0 1 0 0 1 1731678433
+/
+177-38-84-177.ipi.net.br
+0 2 0 0 0 0
+-
+93.158.91.30
+0 2 1 6807 1 1730479845
+/
+cerebro-ldc-prod-02.kaspersky-labs.com
+0 1 1 6807 1 1730865450
+/
+crawl-66-249-79-161.googlebot.com
+0 8 7 8053679 0 0
+-
+sweet.monitoring.internet-measurement.com
+0 1 1 6807 1 1731072929
+/
+107-173-94-218-host.colocrossing.com
+0 31 31 2878372 1 1730980299
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+205.210.31.50
+0 1 1 37750 1 1731847419
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://weembrace.in/
+0 30
+- (Direct Request)
+0 88
+https://www.weembrace.in/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 4
+Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+0 3
+Mozilla/5.0 (Linux; arm_64; Android 12; CPH2205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 YaBrowser/23.3.3.86.
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 5
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 5
+Googlebot-Image/1.0
+0 15
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 13
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36
+0 2
+python-requests/2.32.3
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Appleb
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120
+0 1
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_0) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36
+0 13
+Mozilla/5.0 (Linux; Android 8.0.0; LG-H870DS Build/OPR1.170623.032) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/68.0.3440.9
+0 31
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko)                     Version/6.0 
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,357 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202409 will be lost/reset.
+# Last config file used to build this data file was /home/fmfjda50b8oe/tmp/awstats/ssl/awstats.weembrace.in.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2677                
+POS_VISITOR 7803                
+POS_DAY 9095                
+POS_DOMAIN 3362                
+POS_LOGIN 3672                
+POS_ROBOT 3827                
+POS_WORMS 4255                
+POS_EMAILSENDER 4386                
+POS_EMAILRECEIVER 4529                
+POS_SESSION 9560                
+POS_SIDER 9717                
+POS_FILETYPES 4664                
+POS_DOWNLOADS 4880                
+POS_OS 4928                
+POS_BROWSER 5085                
+POS_SCREENSIZE 5449                
+POS_UNKNOWNREFERER 5523                
+POS_UNKNOWNREFERERBROWSER 5749                
+POS_ORIGIN 5869                
+POS_SEREFERRALS 6004                
+POS_PAGEREFS 6167                
+POS_SEARCHWORDS 6342                
+POS_KEYWORDS 6494                
+POS_MISC 2341                
+POS_ERRORS 6553                
+POS_CLUSTER 3528                
+POS_SIDER_404 6649                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20241001180621 2 178 6653231217944
+FirstTime 0
+LastTime 20240930054147
+LastUpdate 20241002055658 2 0 1 0 0
+TotalVisits 33                  
+TotalUnique 31                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 31                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+AddToFavourites 0 2 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 13614 2 11 7711966
+1 1 1 6807 3 12 0
+2 0 0 0 5 39 4696463
+3 1 1 6807 1 30 314937
+4 0 0 0 1 3 2133708
+5 2 2 13614 3 13 62925
+6 0 0 0 3 8 2444247
+7 2 2 19206 2 9 4533437
+8 2 2 13614 1 5 5839632
+9 8 97 46898763 3 38 44702
+10 0 0 0 1 36 6756974
+11 8 55 24665475 2 9 2137755
+12 0 0 0 8 10 4543553
+13 0 0 0 2 2 0
+14 0 0 0 1 1 0
+15 1 1 6807 4 5 75535
+16 2 2 13614 2 4 2133604
+17 0 0 0 4 8 2243419
+18 8 55 24671067 3 7 37930
+19 7 42 13225596 3 11 2346501
+20 6 32 3047952 2 13 2277308
+21 2 2 13614 1 8 2271001
+22 7 38 3990884 3 36 256005
+23 0 0 0 4 17 13911204
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+in 27 255 91767907
+us 23 70 24778264
+se 4 4 27228
+ru 2 2 13614
+ir 1 1 6807
+eu 1 1 6807
+gb 1 1 6807
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Googlebot/ 113 737823 20240929074332 0
+bingbot/ 50 44038539 20240928230007 0
+Googlebot\-Image/ 21 21604640 20240930031933 0
+no_user_agent 6 226645 20240929090015 0
+survey 4 151145 20240905185005 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 6807 20240920093840 0
+Apache\-HttpClient/ 1 6807 20240901020503 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+woff2 5 252980 0 0
+js 108 1051946 0 0
+jpg 76 100529367 0 0
+html 34 238622 0 0
+ttf 7 1049468 0 0
+woff 13 103222 0 0
+css 84 444290 0 0
+png 7 12937539 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+android 94 12
+linux 2 2
+macosx13 1 1
+Unknown 4 4
+win10 120 26
+android10 112 13
+macosx14 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+chrome129.0.0.0 52 5
+chrome76.0.3809.100 1 1
+chrome128.0.0.0 127 12
+chrome105.0.0.0 4 4
+chrome108.0.0.0 1 1
+Unknown 2 2
+chrome128.0.6613.134 40 5
+chrome51.0.2704.103 1 1
+mozilla 2 2
+chrome91.0.4472.88 52 5
+chrome126.0.0.0 11 11
+chrome122.0.0.0 2 2
+chrome110.0.0.0 2 2
+chrome81.0.4044.129 1 1
+chrome121.0.0.0 36 5
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20240930054147
+python-requests/2.32.3 20240906115335
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+python-requests/2.32.3 20240906115335
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 32 32
+From1 0 0
+From2 1 1
+From3 1 1
+From4 25 300
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://l.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+401 7 296
+404 113 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 32
+/scrollax.min.js 2 -
+/jquery-migrate-3.0.1.min.js 2 -
+/robots.txt 48 -
+/bootstrap-datepicker.js 2 -
+/main.js 2 -
+/bootstrap.min.js 2 -
+/owl.carousel.min.js 2 -
+/system/elfinder/php/connector.minimal.php 1 -
+/_fragment 2 -
+/aos.js 2 -
+/jquery.easing.1.3.js 2 -
+/about.html/ 2 -
+/ 3 -
+/sitemap.xml.gz 3 -
+/jquery.stellar.min.js 2 -
+/wp-login.php 1 -
+/sitemap.xml 4 -
+/admin/js/plugins/elfinder/php/connector.minimal.php 2 -
+/sitemap.txt 2 -
+/jquery.magnific-popup.min.js 2 -
+/contact.html/ 2 -
+/jquery.timepicker.min.js 2 -
+/image1/PHOTO-2024-02-10-21-08-10-modifiedwe.jpg 7 https://weembrace.in/
+/jquery.waypoints.min.js 2 -
+/xmlrpc.php 1 -
+/wp-content/themes/seotheme/db.php 1 www.google.com
+/cpemfmys.php 1 www.google.com
+/jquery.min.js 2 -
+/wp-plain.php 1 www.google.com
+/google-map.js 2 -
+/jquery.animateNumber.min.js 2 -
+/popper.min.js 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 31
+103.158.212.245 8 76 25302971 20240912203348
+49.43.117.28 5 36 3977770 20240913221753
+49.204.139.177 5 52 24645054 20240920185021
+103.197.75.20 5 40 13211982 20240920195911
+152.59.119.69 5 52 24645054 20240901113755
+49.43.118.152 4 51 24630130 20240912091145
+136.49.191.193 2 2 13614 20240906115335
+15.204.182.106 2 2 13614 20240912192313
+138.197.181.89 1 1 6807 20240919002753
+206.189.7.178 1 1 6807 20240930054147
+209.58.162.198 1 1 6307 20240919222631
+5.133.192.127 1 1 6807 20240917012237
+64.23.181.93 1 1 6807 20240923215934
+143.198.18.184 1 1 6807 20240908115358
+37.221.127.143 1 1 6807 20240921160516
+164.90.168.66 1 1 6807 20240928222952
+178.62.204.109 1 1 6807 20240904205537
+161.35.109.146 1 1 6807 20240910113442
+35.90.11.43 1 1 6807 20240913194613
+93.159.230.28 1 1 6807 20240925154948
+138.68.78.125 1 1 12399 20240925185415
+51.15.127.131 1 1 6807 20240925034501
+137.184.68.167 1 1 12399 20240912071005
+68.183.53.77 1 1 6807 20240924160418
+5.133.192.131 1 1 6807 20240910214726
+5.133.192.128 1 1 6807 20240923050258
+5.133.192.99 1 1 6807 20240904184036
+209.97.177.66 1 1 6807 20240901070106
+93.159.230.84 1 1 6807 20240911082215
+146.190.254.99 1 1 6807 20240909204259
+143.110.220.16 1 1 6807 20240915005020
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20240901 6 53 24651861 2
+20240904 2 2 13614 2
+20240906 2 2 13614 2
+20240908 1 1 6807 1
+20240909 1 1 6807 1
+20240910 2 2 13614 2
+20240911 1 1 6807 1
+20240912 15 130 49959114 5
+20240913 6 37 3984577 2
+20240915 1 1 6807 1
+20240917 1 1 6807 1
+20240919 2 2 13114 2
+20240920 10 92 37857036 2
+20240921 1 1 6807 1
+20240923 2 2 13614 2
+20240924 1 1 6807 1
+20240925 3 3 26013 3
+20240928 1 1 6807 1
+20240930 1 1 6807 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 32
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 34 238622 33 26
+/fonts/icomoon/icomoon.ttf 7 1049468 0 3
+/fonts/flaticon/font/Flaticon.woff 7 13678 0 0
+/fonts/open-iconic/open-iconic.woff 6 89544 0 0
+/fonts/ionicons/fonts/ionicons.woff2 5 252980 0 4
+END_SIDER
